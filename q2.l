@@ -38,6 +38,7 @@ int yywrap(){
     return 1;
 }
 
+
 /* Main function */
 int main(){
     printf("Enter Your Desired Input:\n (Press ctrl+d after input to get results) \n");
