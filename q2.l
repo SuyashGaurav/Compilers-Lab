@@ -9,6 +9,7 @@
 
 
 /* Defining Rules */
+/* Assumption: '0' is a even number thus empty string has '0' no of zeroes and '0' no of ones, thus Accepted. */
 %%
 <INITIAL>1 BEGIN q1;
 <INITIAL>0 BEGIN q3;
